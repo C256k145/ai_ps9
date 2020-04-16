@@ -65,27 +65,29 @@
 \begin{document}
 
 %PROBLEM 1%%
-\begin{problem}{Tickets to a lottery cost \$1. There are two possible prizes: a \$10 payoff with probabil-ity 1/50, and a \$1,000,000 payoff with probability 1/2,000,000. 
-What is the expected mone-tary value of a lottery ticket? When (if ever) is it rational to buy a ticket? Be precise—show anequation involving utilities. You may assume 
-current wealth of \$kand thatU(Sk)=0.Youmay also assume thatU(Sk+10)=10×U(Sk+1), but you may not make any assumptionsaboutU(Sk+1,000,000).  Sociological studies show that 
-people with lower income buy a dis-proportionate number of lottery tickets. Do you think this is because they are worse decisionmakers or because they have a different 
+\begin{problem}{Tickets to a lottery cost \$1. There are two possible prizes: a \$10 payoff with probability 1/50, and a \$1,000,000 payoff with probability 1/2,000,000. 
+What is the expected monetary value of a lottery ticket? When (if ever) is it rational to buy a ticket? Be precise—show anequation involving utilities. You may assume 
+current wealth of \$k and that $U(Sk)=0$.You may also assume that $U(S_k+10)=10×U(S_k+1)$, but you may not make any assumptions about $U(S_k+1000000)$.  Sociological studies show that 
+people with lower income buy a disproportionate number of lottery tickets. Do you think this is because they are worse decision makers or because they have a different 
 utility function? Consider the value of contemplating the possibility of winning the lottery versus the value of contemplating becoming an actionhero while watching an 
 adventure movie.}
-    Answer words
+    The value of one ticket is 
+    \[\frac{1}{50}*10 + \frac{1}{2000000}*1000000 = 0.7\]
 \end{problem}
 
 %PROBLEM 2%%
 \begin{problem}{In  1713,  Nicolas  Bernoulli  stated  a  puzzle,  now  called  the  St.  Petersburg  paradox,which works as follows.   You have the opportunity  to play 
-a game in which a fair coin is tossed repeatedly until it comes up heads.  If the first heads appears on the nth toss, you win 2n dollars.}
+a game in which a fair coin is tossed repeatedly until it comes up heads.  If the first heads appears on the nth toss, you win $2^n$ dollars.}
     \begin{subproblem}{ Show that the expected monetary value of this game is infinite.}
         If n is infinite, then
-        \[2(\infty)0.5 = \infty\]
+        \[2^\infty*0.5 = \infty\]
     \end{subproblem}
     \begin{subproblem}{How much would you, personally, pay to play the game?}
-        I would pay \$1, so if it lands heads first, I get my money back, after that I can only make a profit
+        The amount I pay has no effect on how much money I get, so the lower the price, the better. That being said, I would not
+        pay more than \$2 just to ensure that the worst I could do is get my money back
     \end{subproblem}
     \begin{subproblem}{Nicolas’s cousin Daniel Bernoulli resolved the apparent paradox in 1738 by suggestingthat the utility of money is measured on a logarithmic scale 
-    (i.e.,U(Sn)=alog2n+b,where S_n is the state of having \$n). What is the expected utility of the game under this assumption?}
+    (i.e.,$U(Sn)=alog2n+b$,where $S_n$ is the state of having \$n). What is the expected utility of the game under this assumption?}
         Answer words
     \end{subproblem}
     \begin{subproblem}{What is the maximum amount that it would be rational to pay to play the game, assum-ing that one’s initial wealth is \$k}
@@ -131,7 +133,7 @@ a game in which a fair coin is tossed repeatedly until it comes up heads.  If th
 \end{problem}
 
 %PROBLEM 4%%
-\begin{problem}{For the 4×3 world shown  in Figure  17.1,  calculate  which  squares  can  be reached from (1,1) by the action sequence[Up,Up,Right] 
+\begin{problem}{For the 4 x 3 world shown  in Figure  17.1,  calculate  which  squares  can  be reached from (1,1) by the action sequence[Up,Up,Right] 
     and with what probabilities.Explain how this computation is related to the prediction task (see Section 15.2.1) for a hidden Markov model.  \newline
     \includegraphics[width=0.6\textwidth]{fig1.png}}
     Answer words

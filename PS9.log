@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.3)  15 APR 2020 20:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.22)  16 APR 2020 09:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -302,8 +302,8 @@ e
 Missing character: There is no â in font cmbx12!
 Missing character: There is no € in font cmbx12!
 Missing character: There is no ” in font cmbx12!
-Missing character: There is no Ã in font cmbx12!
-Missing character: There is no — in font cmbx12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no — in font cmr12!
 Missing character: There is no â in font cmbx12!
 Missing character: There is no € in font cmbx12!
 Missing character: There is no ™ in font cmbx12!
@@ -311,22 +311,22 @@ Missing character: There is no â in font cmbx12!
 Missing character: There is no € in font cmbx12!
 Missing character: There is no ™ in font cmbx12!
 
-Overfull \hbox (11.74988pt too wide) in paragraph at lines 80--94
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 81--96
 []$[]$
  []
 
 
-Overfull \hbox (11.74988pt too wide) in paragraph at lines 80--94
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 81--96
 []$
  []
 
 
-Overfull \hbox (11.74988pt too wide) in paragraph at lines 80--94
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 81--96
 []$
  []
 
 
-Overfull \hbox (11.74988pt too wide) in paragraph at lines 80--94
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 81--96
 []$ 
  []
 
@@ -343,27 +343,25 @@ Missing character: There is no â in font cmbx12!
 Missing character: There is no € in font cmbx12!
 Missing character: There is no ™ in font cmbx12!
 
-Overfull \hbox (11.74988pt too wide) in paragraph at lines 102--131
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 104--133
 []$[]$
  []
 
 
-Overfull \hbox (11.74988pt too wide) in paragraph at lines 102--131
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 104--133
 []$
  []
 
 
-Overfull \hbox (11.74988pt too wide) in paragraph at lines 102--131
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 104--133
 []$ 
  []
 
 [2]
-Missing character: There is no Ã in font cmbx12!
-Missing character: There is no — in font cmbx12!
-<fig1.png, id=14, 523.9575pt x 262.9825pt>
+<fig1.png, id=16, 523.9575pt x 262.9825pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 136.
+Package pdftex.def Info: fig1.png  used on input line 138.
 (pdftex.def)             Requested size: 271.7835pt x 136.4146pt.
  [3]
 Missing character: There is no â in font cmbx12!
@@ -373,7 +371,7 @@ Missing character: There is no â in font cmbx12!
 Missing character: There is no ˆ in font cmbx12!
 Missing character: There is no ’ in font cmbx12!
 
-Overfull \hbox (10.4946pt too wide) in paragraph at lines 148--148
+Overfull \hbox (10.4946pt too wide) in paragraph at lines 150--150
 \OT1/cmr/bx/n/12 Consider an undis-counted MDP hav-ing three states, (1, 2, 3),
  with re-wards1,2,0,
  []
@@ -383,38 +381,35 @@ Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 157.
+Package pdftex.def Info: fig1.png  used on input line 159.
 (pdftex.def)             Requested size: 271.7835pt x 136.4146pt.
-<fig2.png, id=20, 523.9575pt x 295.1025pt>
+<fig2.png, id=21, 523.9575pt x 295.1025pt>
 File: fig2.png Graphic file (type png)
 <use fig2.png>
-Package pdftex.def Info: fig2.png  used on input line 157.
+Package pdftex.def Info: fig2.png  used on input line 159.
 (pdftex.def)             Requested size: 271.7835pt x 153.07593pt.
 [4 <./fig1.png>] 
 AED: lastpage setting LastPage
-[5 <./fig2.png>] (./PS9.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[5 <./fig2.png>] (./PS9.aux) ) 
 Here is how much of TeX's memory you used:
  4060 strings out of 494923
- 56028 string characters out of 6180743
- 235635 words of memory out of 5000000
+ 56028 string characters out of 6180742
+ 236635 words of memory out of 5000000
  7307 multiletter control sequences out of 15000+600000
  7670 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,12n,43p,270b,302s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on PS9.pdf (5 pages, 120850 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on PS9.pdf (5 pages, 131351 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
